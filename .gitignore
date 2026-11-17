@@ -1,0 +1,6 @@
+# Artefacts de compilation
+out/
+
+# Configuration IDE IntelliJ
+.idea/
+*.iml
